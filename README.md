@@ -1,6 +1,6 @@
 ## 🛒 Global Superstore Business Intelligence Dashboard
 ## 📌 Project Overview
-This project is an intermediate-level Power BI dashboard designed to analyze the sales, profitability, and operational efficiency of a fictitious global retail chain (Global Superstore).
+This project is a Power BI dashboard designed to analyze the sales, profitability, and operational efficiency of a fictitious global retail chain (Global Superstore).
 
 Rather than just displaying data, this project focuses on data storytelling—identifying root causes of profit loss and providing actionable business recommendations to improve the company's bottom line.
 
