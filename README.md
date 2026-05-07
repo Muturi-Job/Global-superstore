@@ -63,7 +63,7 @@ AI Decomposition Tree: Allows stakeholders to dynamically drill down from Total 
 Customer Value Matrix: Identifies high-volume buyers who are costing the company money due to heavy bulk discounting.
 
 ## 🏃‍♂️ How to Run This Project
-Clone this repository: git clone https://github.com/yourusername/global-superstore-analysis.git
+Clone this repository: git clone git@github.com:Muturi-Job/Global-superstore.git
 
 Open the Jupyter Notebook in the /scripts folder to view the Python data cleaning process.
 
