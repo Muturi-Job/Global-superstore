@@ -1,6 +1,6 @@
 # 🛒 Global Superstore: End-to-End Data Analysis 
 ## 📌 Project Overview
-This project is a complete end-to-end data analysis of the fictitious "Global Superstore" retail dataset. The primary objective is to analyze global sales, operational efficiency, and product profitability to uncover the root causes of profit leaks and provide actionable business recommendations.
+This project is a complete end-to-end data analysis of the "Global Superstore" retail dataset. The primary objective is to analyze global sales, operational efficiency, and product profitability to uncover the root causes of profit leaks and provide actionable business recommendations.
 
 This project demonstrates a full data pipeline: data cleaning in Python, relational database modeling in SQL, and business intelligence visualization in Power BI.
 
@@ -47,6 +47,8 @@ Provides a high-level summary of company health and geographical performance.
 Dynamic KPI Banner: Tracks Total Sales ($12.6M), Total Profit ($1.47M), and Profit Margin (11.9%).
 
 Annual Trends: A combo chart revealing that while Q4 drives the highest sales volume, profit margins often dip simultaneously due to holiday discounting.
+<img width="1348" height="697" alt="image" src="https://github.com/user-attachments/assets/9b1e8971-c43b-4d9c-b890-fe310ad6a020" />
+
 
 2. Operations & Product Profitability
 Diagnoses the root causes of profit loss, focusing on product categories and discounting strategies.
@@ -54,6 +56,8 @@ Diagnoses the root causes of profit loss, focusing on product categories and dis
 Discount vs. Profit Scatter Plot: Features a critical DAX-driven break-even reference line (Y=0) to expose profitability thresholds.
 
 Product Performance Matrix: Utilizes background conditional formatting to instantly flag unprofitable product sub-categories (Red/Green indicators).
+<img width="1352" height="756" alt="image" src="https://github.com/user-attachments/assets/fd949953-5653-4407-8d20-4de894fa4225" />
+
 
 3. Customer Insights
 Focuses on customer segmentation and identifying high-risk client accounts.
@@ -62,11 +66,12 @@ AI Decomposition Tree: Allows stakeholders to dynamically drill down from Total 
 
 Customer Value Matrix: Identifies high-volume buyers who are costing the company money due to heavy bulk discounting.
 
+<img width="1353" height="756" alt="image" src="https://github.com/user-attachments/assets/7ba6abf5-4a0f-401c-b383-b981ef5337fd" />
+
+
 ## 🏃‍♂️ How to Run This Project
 Clone this repository: git clone git@github.com:Muturi-Job/Global-superstore.git
 
-Open the Jupyter Notebook in the /scripts folder to view the Python data cleaning process.
+Open the Jupyter Notebook in  to view the Python data cleaning process.
 
-Use the schema.sql file in the /sql folder to build the database architecture.
-
-Open the Global_Superstore_Dashboard.pbix file in Power BI Desktop to interact with the visualizations.
+Open the Global Superstore.pbix file in Power BI Desktop to interact with the visualizations.
